@@ -10,7 +10,8 @@
 		"fs:create": "node src/fs/create.js",
 		"fs:delete": "node src/fs/delete.js",
 		"fs:list": "node src/fs/list.js",
-		"cli:env": "node src/cli/env.js"
+		"cli:env": "node src/cli/env.js",
+		"cli:args": "node src/cli/args.js"
   },
   "repository": {
     "type": "git",
